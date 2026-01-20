@@ -4,7 +4,7 @@
 [Open the Streamlit App](https://womens-diabetes-predictor-mwjjuyruxugdsthrqrahic.streamlit.app/)
 
 ## Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot.PNG)
 
 ## Project Description
 This project implements a machine learning-based female diabetes prediction model using a structured clinical dataset derived from female patients. The goal is to estimate the likelihood of diabetes based on routinely collected medical and demographic indicators.
